@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeeJolli</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="jollibee_menu">Jollibee Menu</string>
+    <string name="title_activity_foods">FoodsActivity</string>
+
+    <string-array name="menu">
+        <item>Fries</item>
+        <item>Burgers</item>
+        <item>Meals</item>
+    </string-array>
+</resources>
